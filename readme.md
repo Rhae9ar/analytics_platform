@@ -17,8 +17,7 @@
 1.  Клонируйте репозиторий:
 
     ```bash
-    git clone <ваш_репозиторий>
-    cd <папка_проекта>
+    git clone (https://github.com/Rhae9ar/analytics_platform.git)
     ```
 
 2.  Создайте и активируйте виртуальное окружение:
